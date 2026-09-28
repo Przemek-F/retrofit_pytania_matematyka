@@ -11,14 +11,14 @@
         "tresc":"ktora liczba jest pierwsza?",
         "odp_a": "16",
         "odp_b": "18",
-        "odb_c": "23",
+        "odp_c": "23",
         "poprawna": 2
       },
       {
         "tresc":"1+2*2+2?",
         "odp_a": "7",
         "odp_b": "8",
-        "odb_c": "12",
+        "odp_c": "12",
         "poprawna": 0
       }
   ]
